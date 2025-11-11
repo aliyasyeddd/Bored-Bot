@@ -38,7 +38,7 @@ This project was built to practice **Fetch API**, **DOM manipulation**, and **cl
 
 Here are the key JavaScript concepts and tools covered while building this project 🧩  
 
-![What we have studied](./images/what-we-studied.png)  
+![What we have studied]
 
 > Concepts practiced include:  
 > `fetch()`, `.then()`, `querySelector`, `addEventListener`, `classList`, `style.display`, and basic accessibility attributes like `aria-live`.  

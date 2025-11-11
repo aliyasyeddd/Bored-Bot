@@ -1,4 +1,9 @@
+
 body {
+    margin: 0;
+}
+
+main {
     /* uigradients.com */
    background-color: #FFDCDC;  /* fallback for old browsers */
     height: 100vh;
