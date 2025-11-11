@@ -36,12 +36,16 @@ This project was built to practice **Fetch API**, **DOM manipulation**, and **cl
 
 ## 📚 What We Have Studied  
 
-Here are the key JavaScript concepts and tools covered while building this project 🧩  
+Here are the key JavaScript and web concepts covered while building this project 🧩  
 
-![What we have studied]
+> - 🖥️ **Servers & Clients** — understanding how browsers communicate with servers  
+> - 🔁 **Request/Response Cycle** — how data flows between client and API  
+> - 🌐 **APIs** — connecting frontend with external data sources  
+> - 📦 **JSON** — working with structured data  
+> - ⚙️ **`fetch` Syntax** — sending requests and handling responses  
 
-> Concepts practiced include:  
-> `fetch()`, `.then()`, `querySelector`, `addEventListener`, `classList`, `style.display`, and basic accessibility attributes like `aria-live`.  
+> Additional concepts practiced include:  
+> `fetch()`, `.then()`, `querySelector`, `addEventListener`, `classList`, `style.display`, and accessibility with `aria-live`.  
 
 ---
 
